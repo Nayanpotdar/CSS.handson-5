@@ -350,8 +350,8 @@ animation: highway 5s linear infinite;
   font-weight: bold;
 }
 .flag{
-  top: 500px;
-  left: 63%;
+  top: 205px;
+  left: 68%;
   position: relative;
   z-index: 2;
 }
